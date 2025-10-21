@@ -1,8 +1,8 @@
-#List of My Favorite Series and Movies
-##**SERIES:**
+# List of My Favorite Series and Movies
+## **SERIES:**
 -Alice in Borderland
 -Modern Family
-##**MOVIES:**
+## **MOVIES:**
 -Call Me By Your Name
 -The Notebook
 -Pride and Prejudice
